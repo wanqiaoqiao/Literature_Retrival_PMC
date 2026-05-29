@@ -2,6 +2,8 @@
 
 This repository contains three Python scripts that work together to search PubMed, identify which PubMed records have full text available in PubMed Central (PMC), and download the corresponding PMC full-text XML files.
 
+Download PMC full-text files in local location, before running diff_LLM_Extraction_MVP or V2
+
 ## Overview
 
 The workflow has three steps:
